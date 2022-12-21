@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: yellow;
+    color: violet;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 100px;
+}
