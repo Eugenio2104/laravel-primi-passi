@@ -17,3 +17,8 @@ Route::get('/', function () {
     $saluto = 'Hello World';
     return view('home', compact('saluto'));
 });
+
+Route::get('/other-page', function () {
+    $saluto2 = 'Other Page';
+    return view('other-page', compact('saluto2'));
+});

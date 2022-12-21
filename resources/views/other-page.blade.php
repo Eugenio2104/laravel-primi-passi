@@ -10,9 +10,10 @@
 </head>
 
 <body>
-    <h1>{{ $saluto }}</h1>
 
-    <button><a href="/other-page">vai in other page</a></button>
+    <h1>{{ $saluto2 }}</h1>
+
+    <button><a href="/">vai in home</a></button>
 </body>
 
 </html>

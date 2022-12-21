@@ -7,12 +7,28 @@
 body {
     height: 100vh;
     background-color: yellow;
-    color: violet;
+    color: blueviolet;
     text-align: center;
 
 }
 
+
 h1 {
     font-size: 3rem;
     margin-top: 100px;
+}
+
+
+button {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10%;
+    margin-top: 10px;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: yellow
 }
